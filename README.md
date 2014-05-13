@@ -1,7 +1,7 @@
 ---
 tags: methods, return values
 language: ruby
- resources: 2
+resources: 2
 ---
 
 # Parrot
