@@ -15,5 +15,3 @@ Additionally, the parrot method should have a default phrase.
 ## Resources
 * [Learn to Program](http://books.flatironschool.com/books/43?page=72) - [9.1 Method Parameters](http://books.flatironschool.com/books/43?page=72), page 72
 * [Skorks Blog](http://www.skorks.com/) - [Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
-
-test.
