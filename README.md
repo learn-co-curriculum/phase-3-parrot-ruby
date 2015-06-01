@@ -1,15 +1,10 @@
----
-tags: methods, return values, default arguments
+#Parrot
 
-language: ruby
-resources: 2
----
-
-# Objectives
+## Objectives
 1. Practice return values and default arguments
 2. Define a method that parrots phrases and has a default phrase
 
-#Instructions
+##Instructions
 
 In this lab you'll be defining a method called `parrot`. When you pass `parrot` a phrase as an argument, the method should output that phrase, but also return the phrase. 
 
