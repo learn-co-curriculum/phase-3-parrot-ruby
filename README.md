@@ -1,9 +1,3 @@
----
-tags: methods, default arguments, return values
-language: ruby
-resources: 1
----
-
 #Parrot
 
 ## Objectives
