@@ -1,6 +1,7 @@
 tags:
   - methods
   - return values
+  - default arguments
 languages:
   - ruby
-resources: 2
+resources: 1

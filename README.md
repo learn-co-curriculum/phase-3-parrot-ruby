@@ -1,8 +1,9 @@
 #Parrot
 
 ## Objectives
-1. Practice return values and default arguments
-2. Define a method that parrots phrases and has a default phrase
+1. Define a method that accepts arguments
+2. Learn how to create a default argument
+3. Practice with return values
 
 ##Instructions
 
