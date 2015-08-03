@@ -1,17 +1,17 @@
----
-tags: methods, return values
-language: ruby
-resources: 2
----
-
 # Parrot
 
-In this lab you'll be defining a method called parrot. When you pass parrot a phrase as an argument, the method will output that phrase, but also return the phrase. 
+## Objectives
+1. Define a method that accepts arguments.
+2. Create a default argument.
+3. Practice returning a value.
 
-**Note** This lab is explicitly testing your ability to control the return value of a method, not just what it does, but what it returns. Remember, return values are important.
+##Instructions
 
-Additionally, the parrot method should have a default phrase.
+In this lab you'll be defining a method called `parrot`. When you pass `parrot` a string argument containing a phrase, the method should both output that phrase and return the phrase. 
+
+The `parrot` method should also have a default phrase. 
+
+**Note:** *This lab is explicitly testing your ability to control the return value of a method, not just what it does, but what it returns. Remember, return values are important.*
 
 ## Resources
-* [Learn to Program](http://books.flatironschool.com/books/43?page=72) - [9.1 Method Parameters](http://books.flatironschool.com/books/43?page=72), page 72
-* [Skorks Blog](http://www.skorks.com/) - [Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
+* [Skorks Blog - Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
