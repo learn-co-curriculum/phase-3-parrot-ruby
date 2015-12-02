@@ -17,3 +17,5 @@ The `#parrot` method should have a default argument of `"Squawk!"`.
 
 ## Resources
 * [Skorks Blog - Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
+
+<a href='https://learn.co/lessons/parrot-ruby' data-visibility='hidden'>View this lesson on Learn.co</a>
