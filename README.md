@@ -5,7 +5,7 @@
 2. Create a default argument.
 3. Practice returning a value.
 
-##Instructions
+## Instructions
 
 In this lab you'll be defining a method called `#parrot`. 
 
