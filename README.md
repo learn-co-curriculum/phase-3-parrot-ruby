@@ -1,4 +1,4 @@
-# Parrot
+# Parrot Lab - Methods and Return Values
 
 ## Objectives
 
