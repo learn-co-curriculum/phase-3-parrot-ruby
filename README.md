@@ -1,10 +1,10 @@
 # Parrot Lab - Methods and Return Values
 
-## Objectives
+## Learning Goals
 
-1.  Define a method that accepts arguments.
-2.  Create a default argument.
-3.  Practice returning a value.
+-  Define a method that accepts arguments.
+-  Create a default argument.
+-  Practice returning a value.
 
 ## Instructions
 
